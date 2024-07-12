@@ -1,0 +1,59 @@
+header{
+    background-color: #333333;
+
+    background-image: url("/img/cat.jpg");
+    background-size: cover;
+    height: 250px;
+}
+.imran{
+    font-size: x-large;
+    font-size: xx-large;
+    color: white;
+    padding-left: 10px;
+}
+.pic{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    display: block;
+    margin-top: 50px;
+    border: 5px solid white;
+
+}
+.sec{
+    background-color: #333333;
+    color: white;
+    margin-top: -50px;
+    padding-left: 10px;
+
+} 
+.us{
+    padding-top: 70px;
+    font-weight: 300;
+}
+.s1{
+    border: 5px solid blue;
+    font-size: x-large;
+    background-color: blue;
+    border-radius: 10%; 
+    margin-right: 10px;
+}
+.s2{
+    border: 5px solid rgb(62, 62, 62);
+    font-size: x-large;
+    border-radius: 10%; 
+    margin-left: 10px;
+    margin-right: 10px;
+
+    background-color: rgb(62, 62, 62);
+}
+.s3{
+    background-color: rgb(62, 62, 62);
+    border: 5px solid rgb(62, 62, 62);
+    font-size: x-large;
+    border-radius: 10%; 
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
